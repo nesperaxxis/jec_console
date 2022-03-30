@@ -1,0 +1,6 @@
+dateTime
+bandwith
+dataTransferred
+
+40012782-10
+sessionToken":"4D6833A3185A88C1F43DBCE57D20C0FA","svcGroupName":"API Test","svcGroupIdentifier":"8AF141D3C5A5146A3EAC9D166AB4C458"}
